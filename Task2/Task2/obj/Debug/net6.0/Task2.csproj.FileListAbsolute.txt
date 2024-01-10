@@ -1,0 +1,14 @@
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/bin/Debug/net6.0/Task2
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/bin/Debug/net6.0/Task2.deps.json
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/bin/Debug/net6.0/Task2.dll
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/bin/Debug/net6.0/Task2.pdb
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/obj/Debug/net6.0/Task2.dll
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/obj/Debug/net6.0/refint/Task2.dll
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/obj/Debug/net6.0/Task2.pdb
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
+/Users/asmaamohamed/Desktop/B503/Task2/Task2/obj/Debug/net6.0/ref/Task2.dll
